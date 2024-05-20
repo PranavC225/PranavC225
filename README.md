@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on the domains mentioned above
 - 📫 How to reach me: pranav.chandode@gmail.com
 - 😄 Happy to connect on [LinkedIn](https://www.linkedin.com/in/pranav-chandode/)
-- ⚡ Trying to improve y coding skills on [Leetcode](https://leetcode.com/u/Chandode-Pranav/)
+- ⚡ Trying to improve my coding skills on [Leetcode](https://leetcode.com/u/Chandode-Pranav/)
 
 <!---
 PranavC225/PranavC225 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
